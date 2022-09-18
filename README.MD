@@ -14,5 +14,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 📱 Contato
 
-skyescarlos@gmail.com
-(18)991343369
+- skyescarlos@gmail.com
+- (18)991343369
